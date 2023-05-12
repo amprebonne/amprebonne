@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amprebonne
 - 👀 I’m interested in mechatronic systems
-- 🌱 I’m currently learning embedded systems programming
-- 💞️ I’m looking to collaborate on robotics and embedded programming projects
+- 🌱 I’m currently studing software engineering for embedded systems
+- 💞️ I’m looking to collaborate on mechatronics, robotics and embedded software projects
 - 📫 How to reach me amprebonne@gmail.com
 
 <!---
