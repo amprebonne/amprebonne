@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amprebonne
-- 👀 I'm currently a mechatronics & software eng. student
+- 👀 I'm an aspiring swe
 - 📫 How to reach me, amprebonne@gmail.com
 
 <!---
