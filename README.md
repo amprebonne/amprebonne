@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I'm an aspiring swe
+- 👀 I'm an aspiring embedded swe
 - 📫 How to reach me, amprebonne@gmail.com
 
 <!---
