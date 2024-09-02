@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amprebonne
+- 👋 Hi
 - 👀 I'm an aspiring swe
 - 📫 How to reach me, amprebonne@gmail.com
 
