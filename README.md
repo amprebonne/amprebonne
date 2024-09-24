@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I'm an aspiring embedded swe
+- 👀 I'm an aspiring Embedded systems & IoT SWE interested in embedded software projects from edge-to-cloud
 - 📫 How to reach me, amprebonne@gmail.com
 
 <!---
