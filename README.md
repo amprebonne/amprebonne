@@ -1,5 +1,5 @@
 - 👋 Hi
-- 👀 I'm exploring UX design & engineering.
+- 👀 I'm exploring software engineering.
 - 📫 How to reach me, amprebonne@gmail.com
 
 <!---
